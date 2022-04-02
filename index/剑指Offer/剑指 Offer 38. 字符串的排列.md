@@ -2,7 +2,7 @@
 
 ### 题目传送门
 
-[点击这里]()
+[点击这里](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 
 ### 解题思路
 
