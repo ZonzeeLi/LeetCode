@@ -1,6 +1,6 @@
 | 题目                                                         | 题解                                                         | 难度 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) |                                                              | 中等 |
+| [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) |    [310. 最小高度树](https://github.com/ZonzeeLi/LeetCode/blob/master/index/301-310/310.%20%E6%9C%80%E5%B0%8F%E9%AB%98%E5%BA%A6%E6%A0%91.md)                                                          | 中等 |
 | [488. 祖玛游戏](https://leetcode-cn.com/problems/zuma-game/) | [488. 祖玛游戏](https://github.com/ZonzeeLi/LeetCode/blob/master/index/481-490/488.%20%E7%A5%96%E7%8E%9B%E6%B8%B8%E6%88%8F.md) | 困难 |
 | [606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [606. 根据二叉树创建字符串](https://github.com/ZonzeeLi/LeetCode/blob/master/index/601-610/606.%20%E6%A0%B9%E6%8D%AE%E4%BA%8C%E5%8F%89%E6%A0%91%E5%88%9B%E5%BB%BA%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 简单 |
 | [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [653. 两数之和 IV - 输入 BST](https://github.com/ZonzeeLi/LeetCode/blob/master/index/651-660/653.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20IV%20-%20%E8%BE%93%E5%85%A5%20BST.md) | 简单 |
