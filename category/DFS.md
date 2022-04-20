@@ -9,6 +9,6 @@
 | [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [695. 岛屿的最大面积](https://github.com/ZonzeeLi/LeetCode/blob/master/index/691-700/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md) | 中等 |
 | [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [1219. 黄金矿工](https://github.com/ZonzeeLi/LeetCode/blob/master/index/1211-1220/1219.%20%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5.md) | 中等 |
 | [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [剑指 Offer 12. 矩阵中的路径](https://github.com/ZonzeeLi/LeetCode/blob/master/index/%E5%89%91%E6%8C%87Offer/%E5%89%91%E6%8C%87%20Offer%2012.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md) | 中等 |
-| [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |                                                              | 中等 |
+| [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [剑指 Offer 26. 树的子结构](https://github.com/ZonzeeLi/LeetCode/blob/master/index/%E5%89%91%E6%8C%87Offer/%E5%89%91%E6%8C%87%20Offer%2026.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)                                                             | 中等 |
 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/ZonzeeLi/LeetCode/blob/master/index/%E5%89%91%E6%8C%87Offer/%E5%89%91%E6%8C%87%20Offer%2032%20-%20I.%20%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md) | 中等 |
 
